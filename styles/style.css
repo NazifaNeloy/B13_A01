@@ -243,3 +243,89 @@
     color: #333333;
     line-height: 1.5;
 }
+
+
+/* second brain section */
+.second-brain-section {
+    padding: 80px 0;
+}
+
+.solution {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.solution-image, .solution-text {
+    flex: 1;
+}
+
+.solution-image img {
+    width: 100%;
+}
+
+.sub-label {
+    color: #4a9062;
+    font-size: 12px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.solution-text h3 {
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+.sub-label {
+    color: #4a9062;
+    font-size: 12px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.solution-text h3 {
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+
+.solution-text p {
+    color: #666666;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.solution-text ul {
+    list-style: none;
+}
+
+.solution-text li {
+    margin-bottom: 12px;
+    font-weight: bold;
+    color: #333333;
+}
+
+/* early access section */
+.early-access-section {
+    padding: 50px 0 100px 0;
+}
+
+.cta-box {
+    background-color: #f8f7f2;
+    padding: 80px 40px;
+    text-align: center;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.cta-box h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.cta-box p {
+    color: #666666;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin: 0 auto 30px auto;
+}
